@@ -10,9 +10,13 @@ Built with ❤️ using Python, Streamlit, and XGBoost.
 
 gbvtrackai/
 ├── data/ # Raw and cleaned datasets
+
 ├── notebooks/ # Jupyter notebooks for EDA and model development
+
 ├── UI/UX/ # streamlit Deployment
+
 ├── reports/ # PDF or markdown reports and notes
+
 ├── requirements.txt # All required Python packages
 
 ---
